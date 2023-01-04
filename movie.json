@@ -1,0 +1,45 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "name": "Oppenheimer",
+    "description": "Physicist J Robert Oppenheimer works with a team of scientists during the Manhattan Project, leading to the development of the atomic bomb",
+    "duration": "T2H30M",
+    "url": "https://www.oppenheimermovie.com/",
+    "director": {
+        "@type": "Person",
+        "name": "Christopher Nolan",
+        "sameAs": "https://www.imdb.com/name/nm0634240/"
+    },
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Cillian Murphy",
+            "sameAs": "https://www.imdb.com/name/nm0614165"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Downey Jr.",
+            "sameAs": [
+                "https://www.imdb.com/name/nm0000375",
+                "https://twitter.com/robertdowneyjr"
+            ]
+        },
+        {
+            "@type": "Person",
+            "name": "Florence Pugh",
+            "sameAs": [
+                "https://www.imdb.com/name/nm6073955",
+                "https://www.instagram.com/florencepugh"
+            ]
+        },
+        {
+            "@type": "Person",
+            "name": "Matt Damon",
+            "sameAs": "https://www.imdb.com/name/nm0000354"
+        }
+    ],
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://m.media-amazon.com/images/M/MV5BNjk5M2UyOTItNGMwZS00NzI1LWI5MGMtNjgzMTNhMjE2NGYxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UY759_.jpg"
+    }
+}
